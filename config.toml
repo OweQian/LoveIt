@@ -201,14 +201,14 @@
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = "https://github.com/OweQian"
+    GitHub = "OweQian"
     Linkedin = ""
     Twitter = ""
     Instagram = ""
     Facebook = ""
     Telegram = ""
     Medium = ""
-    Gitlab = "https://gitlab.com/wangxiaobai"
+    Gitlab = "wangxiaobai"
     Youtubelegacy = ""
     Youtubecustom = ""
     Youtubechannel = ""
@@ -244,8 +244,8 @@
     Strava = ""
     Skype = ""
     Whatsapp = ""
-    Zhihu = "https://www.zhihu.com/people/xiao-qian-37-75"
-    Douban = "https://www.douban.com/people/235014252"
+    Zhihu = ""
+    Douban = ""
     Angellist = ""
     Slidershare = ""
     Jsfiddle = ""
